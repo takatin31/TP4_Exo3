@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group>
+        <item
+            android:id="@+id/todaystask"
+            android:title="Taches d'aujourd'hui"/>
+        <item
+            android:id="@+id/weekstask"
+            android:title="Taches de cette semaine"/>
+        <item
+            android:id="@+id/alltasks"
+            android:title="Toutes les taches"/>
+    </group>
+</menu>
